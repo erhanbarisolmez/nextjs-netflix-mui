@@ -18,6 +18,7 @@ const Header = () => {
         sx={{
           backgroundColor: "transparent",
           padding: "25px 20px",
+          position:'absolute'
         }}
         elevation={0}
       >
